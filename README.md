@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **noah.taigameier@gmail.com**
 
-- 📄 Know about my experiences [www.noah-taiga.me/my-cv](www.noah-taiga.me/my-cv)
+- 📄 Know about my experiences [CV](www.noah-taiga.me/assets/CV-Noah-Taiga-Endo-2.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
