@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">I'm German and Japanese national currently coding from Tokyo</h3>
 
-- 🥪 I’m currently working on [CIET - Can I eat this?](www.ciet.lol)
+- 🥪 I’m currently working on [CIET - Can I eat this?](https://www.ciet.lol/)
 
 - 🌱 I’m currently learning **React and best practices for secure web applications**
 
 - 👯 I’m looking to collaborate on **a React project**
 
-- 👨‍💻 All of my projects are available at [www.noah-taiga.me](www.noah-taiga.me)
+- 👨‍💻 All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
 
 - 💬 Ask me about **Ruby on Rails**
 
 - 📫 How to reach me **noah.taigameier@gmail.com**
 
-- 📄 Know about my experiences [CV](www.noah-taiga.me/assets/CV-Noah-Taiga-Endo-2.pdf)
+- 📄 Know about my experiences [CV](https://noah-taiga.me/assets/CV-NoahTaigaEndo.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
