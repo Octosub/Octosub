@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">I'm German and Japanese national currently coding from Tokyo</h3>
+<h3 align="center">I'm a German and Japanese national currently coding from Tokyo</h3>
 
 - 🥪 I’m currently working on [CIET - Can I eat this?](https://www.ciet.lol/)
 
