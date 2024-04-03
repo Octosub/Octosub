@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">I'm a German and Japanese national currently coding from Tokyo</h3>
 
-- 🥪 I’m currently working on [CIET - Can I eat this?](https://www.ciet.lol/)
+- ❓ I’m currently working on [Quanki](https://github.com/Octosub/quiz-creAItor-API))
 
 - 🌱 I’m currently learning **React and best practices for secure web applications**
 
