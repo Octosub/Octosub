@@ -3,7 +3,7 @@
 
 - ❓ I’m currently working on [Quanki](https://github.com/Octosub/quiz-creAItor-API)
 
-- 🌱 I’m currently learning **React and best practices for secure web applications**
+- 🌱 I’m currently learning [P5JS](https://p5js-series.art/)
 
 - 👯 I’m looking to collaborate on **a React project**
 
