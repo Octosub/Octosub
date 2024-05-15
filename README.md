@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">Currently coding from Tokyo</h3>
+<h3 align="center">Coding from Tokyo</h3>
 
 Currently learning Scala.
 
