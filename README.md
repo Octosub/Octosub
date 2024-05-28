@@ -3,8 +3,10 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">Coding from Tokyo</h3>
 
-Currently learning:  <br>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala-logo" height="50" width="auto"/>
+Currently learning:  
+<br>
+<br>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala-logo" height="40" width="auto"/>
 
 All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
 
