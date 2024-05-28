@@ -14,11 +14,11 @@ Currently learning:
 All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
 
 
-<h3 align="left">Contact:</h3>
+<h5 align="left">Contact:</h5>
 
-[noah.taigameier@gmail.com](noah.taigameier@gmail.com)
+- [noah.taigameier@gmail.com](noah.taigameier@gmail.com)
 
 <br>
-<a href="https://linkedin.com/in/noah-endo-meier" target="blank">- LinkedIn: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noah-endo-meier" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/noah-endo-meier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noah-endo-meier" height="30" width="40" /></a>
 
 
