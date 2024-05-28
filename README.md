@@ -10,9 +10,8 @@ Currently learning:
 </p>
 <br>
 
-<p>
 All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
-</p>
+
 
 <h3 align="left">Contact:</h3>
 - [noah.taigameier@gmail.com](noah.taigameier@gmail.com)
