@@ -1,4 +1,4 @@
-<a href="https://www.codewars.com/users/Octosub" target="blank"><img align="right" src="https://www.codewars.com/users/Octosub/badges/small" alt="ntm-codewars-badge" height="30" width="20%"/></a>
+<a href="https://www.codewars.com/users/Octosub" target="blank"><img align="right" src="https://www.codewars.com/users/Octosub/badges/small" alt="ntm-codewars-badge" height="30" width="35%"/></a>
 <br>
 <br>
 <h1 align="center">Hi 👋, I'm Noah</h1>
