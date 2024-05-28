@@ -10,6 +10,7 @@ Currently learning:
 </p>
 <br>
 <br>
+
 All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
 
 
