@@ -7,7 +7,7 @@ Currently learning Scala.
 
 - 📫 Reach me **noah.taigameier@gmail.com**
 
-- 🏋️ Excercising on Codewars (https://www.codewars.com/users/Octosub/badges/small)
+- 🏋️ Excercising on Codewars [aaa](https://www.codewars.com/users/Octosub/badges/small)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
