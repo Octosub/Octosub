@@ -9,7 +9,7 @@ Currently learning:
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="scala-logo" height="40" width="auto"/>
 </p>
 <br>
-
+<br>
 All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
 
 
