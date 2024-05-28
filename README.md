@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">Coding from Tokyo</h3>
 
+
+
 - Currently learning Scala
 - All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
 - Contact: [noah.taigameier@gmail.com](noah.taigameier@gmail.com)
