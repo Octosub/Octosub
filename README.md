@@ -10,5 +10,4 @@
 - All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
 - Contact: [noah.taigameier@gmail.com](noah.taigameier@gmail.com)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octosub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octosub&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
