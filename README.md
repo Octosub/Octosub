@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octosub&layout=donut)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Octosub/github-readme-stats))
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Octosub&show_icons=true&theme=dark"
+    srcset="[https://github-readme-stats.vercel.app/api?username=Octosub&show_icons=true&theme=dark](https://github-readme-stats-dcun81d09-octosubs-projects.vercel.app)"
     media="(prefers-color-scheme: dark)"
   />
   <source
