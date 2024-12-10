@@ -6,6 +6,6 @@
 <br>
 <br>
 
-- Currently learning FastAPI(Python🐍) & NextJS
+- Currently learning FastAPI(Python🐍) & NextJS.
 - All of my projects are available at [www.noah-taiga.me](https://noah-taiga.me/)
 - Contact: [noah.taigameier@gmail.com](noah.taigameier@gmail.com)
