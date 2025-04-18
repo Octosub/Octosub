@@ -3,8 +3,9 @@
 <br>
 <h1 align="center">Hi, I'm Noah 👋</h1>
 <h3 align="center">Coding from Tokyo</h3>
+<h2 align="center">React & Typescript</h2>
 <br>
 <br>
 
-- Currently learning: Typescript & IaC 🏗️
+- Currently learning: Scala & IaC 🏗️
 - Contact: [noah.taigameier@gmail.com](noah.taigameier@gmail.com)
